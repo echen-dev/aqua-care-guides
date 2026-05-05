@@ -2,7 +2,7 @@ import { Link } from "react-router";
 
 const Hero = ({
   name = "[NAME]",
-  text = "I've been in the aquarium hobby for the last decade and love helpingothers learn about caring for their aquatic friends.",
+  text = "I've been in the aquarium hobby for the last decade and hope to share that knowledge with upcoming aquarists.",
 }) => {
   return (
     <header className="text-center py-20 px-4 bg-gray-900 text-white transition-colors duration-300">
